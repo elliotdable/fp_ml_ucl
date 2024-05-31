@@ -1,0 +1,4 @@
+# ignore for csv and dat files
+
+*.csv
+*.dat
